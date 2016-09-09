@@ -164,6 +164,7 @@ V případě zániku bude případný zbylý majetek po likvidaci předán na z�
 
 ### Čl. XIV Přechodná ustanovení
 (1) Zakládajícím členem spolku je fyzická osoba splňující podmínky členství (čl. V(1)), která se účastní činnosti přípravného výboru nebo zakládající schůze, a proti jejímuž členství nebyly vzneseny odůvodněné námitky ze strany osob účastnících se činnosti přípravného výboru.
+
 (2) Výše členského příspěvku je pro první rok činnosti stanovena na 0,- Kč.
 
 # Přílohy
