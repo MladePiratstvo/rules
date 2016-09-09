@@ -91,7 +91,7 @@ Stanovy občanského sdružení spolek Mladí Piráti
 (4) Flotila
 * a) schvaluje stanovy spolku a jejich změny, rozhoduje o zániku spolku — pro přijetí těchto rozhodnutí je potřeba souhlas dvoutřetinové většiny přítomných
 Plavčíků.
-* b) volí Admirála, Strážce pokladu, Kontraadmirály, Korzára a jejich náhradníky;
+* b) volí a odvolánvá Admirála, Strážce pokladu, Kontraadmirály, Korzára a jejich náhradníky;
 * c) schvaluje rozpočet, zprávu o činnosti, zprávu o hospodaření za minulé období a revizní zprávu;
 * d) rozhoduje o vyloučení člena;
 * e) konkretizuje činnost pro další období;
@@ -132,7 +132,7 @@ Plavčíků.
 * b) schvaluje žádosti Plavčíků o členství v Posádce,
 * c) předává žádosti o členství ve spolku Admiralitě.
 
-(4) Kapitán Posádky je jmenován Admirálem na návrh Posádky.
+(4) Kapitán Posádky je jmenován a odvoláván Admirálem na návrh Posádky.
 
 (5) Plavčík může být vyloučen z Posádky, pokud to Kapitán navrhne a Posádka schválí.
 
