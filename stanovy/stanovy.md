@@ -46,11 +46,11 @@ Stanovy občanského sdružení spolek Mladí Piráti
 ### Čl. V Členství ve spolku
 (1) Členem spolku se může stát jen fyzická osoba od 15 do 30 let včetně. Člen spolku se nazývá Plavčík.
 
-(2) Přihlášku ke členství přijímá Kapitán místně příslušné Posádky nebo Generál.
-Členství vzniká přijetím Generálním štábem a zaplacením členského příspěvku.
+(2) Přihlášku ke členství přijímá Kapitán místně příslušné Posádky nebo Kontraadmirál.
+Členství vzniká přijetím Admiralitou a zaplacením členského příspěvku.
 
 (3) Členství zaniká
-* a) oznámením člena o vystoupení Generálovi;
+* a) oznámením člena o vystoupení Kontraadmirálovi;
 * b) dovršením věkové hranice 35 let;
 * c) rozhodnutím Flotily o vyloučení;
 * d) nezaplacením členského příspěvku;
@@ -84,26 +84,26 @@ Stanovy občanského sdružení spolek Mladí Piráti
 ### Čl. VII Členská schůze (dále Flotila)
 (1) Flotila je nejvyšším orgánem spolku; schází se nejméně dvakrát ročně;
 
-(2) Flotilu svolává Generální štáb. Flotila je usnášeníschopná, je-li oznámena alespoň 30 dní předem.
+(2) Flotilu svolává Admiralita. Flotila je usnášeníschopná, je-li oznámena alespoň 30 dní předem.
 
 (3) Flotila přijímá rozhodnutí tajným hlasováním; pro přijetí rozhodnutí je potřeba souhlas nadpoloviční většiny přítomných Plavčíků, pokud tyto stanovy neurčí jinak.
 
 (4) Flotila
 * a) schvaluje stanovy spolku a jejich změny, rozhoduje o zániku spolku — pro přijetí těchto rozhodnutí je potřeba souhlas dvoutřetinové většiny přítomných
 Plavčíků.
-* b) volí Admirála, Strážce pokladu, Generály, Korzára a jejich náhradníky;
+* b) volí a odvolánvá Admirála, Strážce pokladu, Kontraadmirály, Korzára a jejich náhradníky;
 * c) schvaluje rozpočet, zprávu o činnosti, zprávu o hospodaření za minulé období a revizní zprávu;
 * d) rozhoduje o vyloučení člena;
 * e) konkretizuje činnost pro další období;
 * f) stanovuje výši členských příspěvků;
 * g) jmenuje čestné členy spolku a ruší čestné členství.
 
-### Čl. VIII Generální štáb a jednání jménem spolku
-(1) Statutárním orgánem spolku je Generální štáb, za nějž jedná Admirál samostatně, nebo tři Generálové společně.
+### Čl. VIII Admiralita a jednání jménem spolku
+(1) Statutárním orgánem spolku je Admiralita, za nějž jedná Admirál samostatně, nebo tři Kontraadmirálové společně.
 
-(2) Generální štáb spolku se skládá z Generálů; Admirála, Strážce pokladu a tří dalších Generálů. Funkční období Generálního štábu je jednoleté.
+(2) Admiralita spolku se skládá z Kontraadmirálů; Admirála, Strážce pokladu a až tří dalších Kontraadmirál. Funkční období Admirality je jednoleté.
 
-(3) Generální štáb
+(3) Admiralita
 * a) řídí spolek v období mezi schůzemi Flotily,
 * b) projednává předložené podněty členů spolku na své nejbližší schůzi,
 * c) informuje členy spolku minimálně jednou měsíčně o činnosti spolku a souvisejícím dění,
@@ -112,27 +112,27 @@ Plavčíků.
 * f) vede neveřejný seznam členů; zápis provádí při vzniku členství a výmaz při jeho zániku.
 
 (4) Admirál
-* a) svolává schůzi Generálního štábu kdykoliv ho o to požádá jiný Generál, nejméně však jednou měsíčně,
-* b) řídí činnost a schůze Generálního štábu,
-* c) pověřuje jednáním jménem spolku další osoby.
+* a) svolává schůzi Admirality kdykoliv ho o to požádá jiný Kontraadmirál, nejméně však jednou měsíčně,
+* b) řídí činnost a schůze Admirality,
+* c) písemně pověřuje jednáním jménem spolku další osoby.
 
 (5) Strážce pokladu
 * a) předkládá Flotile zprávu o hospodaření za minulé období, návrh rozpočtu na další období a návrh na výši členských příspěvků,
 * b) má dispoziční právo s veškerým majetkem spolku.
 
-(6) Generální štáb je usnášeníschopný, je-li přítomna nadpoloviční většina jeho členů a rozhoduje nadpoloviční většinou přítomných hlasů. V případě rovnosti hlasů může rozhodnout Admirál. Schůze generálního štábu jsou volně přístupné členům spolku.
+(6) Admiralita je usnášeníschopná, je-li přítomna nadpoloviční většina jejích členů a rozhoduje nadpoloviční většinou přítomných hlasů. V případě rovnosti hlasů může rozhodnout Admirál. Schůze admirality jsou volně přístupné členům spolku.
 
 ### Čl. IX Místní a zájmové Posádky
-(1) Posádku mohou založit minimálně tři Plavčíci. Žádost o založení schvaluje Generální štáb. Posádky jsou buďto ohraničené územím nebo zájmy svých členů.
+(1) Posádku mohou založit minimálně tři Plavčíci. Žádost o založení schvaluje Admirality. Posádky jsou buďto ohraničené územím nebo zájmy svých členů.
 
 (2) Nejvyšším orgánem Posádky je schůze Posádky, kterou vyhlašuje její Kapitán nejméně dvakrát ročně.
 
 (3) Kapitán
 * a) řídí a spravuje Posádku,
 * b) schvaluje žádosti Plavčíků o členství v Posádce,
-* c) předává žádosti o členství ve spolku Generálnímu štábu.
+* c) předává žádosti o členství ve spolku Admiralitě.
 
-(4) Kapitán Posádky je jmenován Generálním štábem na návrh Posádky.
+(4) Kapitán Posádky je jmenován a odvoláván Admirálem na návrh Posádky.
 
 (5) Plavčík může být vyloučen z Posádky, pokud to Kapitán navrhne a Posádka schválí.
 
